@@ -6,3 +6,7 @@ Uses this to randomly select a phrase to spam chat with whenever you fire (press
 This offers considerably more randomness than the usual approach, which just cycles through a list each time 'wasd' is pressed.
 
 https://wiki.teamfortress.com/wiki/Scripting#Randomization
+
+The banter lines are taken from "Demonstration Man v1.02"
+
+https://www.ocf.berkeley.edu/~jmlvll/lab-reports/saves/tf/demonstration.cfg
